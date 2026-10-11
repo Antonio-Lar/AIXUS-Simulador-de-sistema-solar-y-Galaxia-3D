@@ -62,9 +62,9 @@ npm run tauri dev
 Para generar el ejecutable nativo (`.exe`, `.msi`, etc.) para distribución local:
 
 bash
+```
 npm run tauri build
-
-
+```
 
 
 
@@ -72,6 +72,3 @@ npm run tauri build
 
 Este proyecto se encuentra actualmente bajo protección de derechos de autor estándar (**Todos los derechos reservados**). El código fuente está disponible públicamente con fines de demostración técnica, portafolio y revisión académica. No se permite la redistribución, copia o explotación comercial de este software sin la autorización explícita del autor.
 
-```
-
-```
