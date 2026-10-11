@@ -3,9 +3,9 @@ Puedes ajustar el comando de ejecución (`tauri dev`, `electron:dev`, etc.) seg�
 
 ---
 
-markdown
+
 <div align="center">
-  <h1>🌌 AIXUS: Simulador de Sistema Solar y Galaxia 3D</h1>
+  <h1> AIXUS: Simulador de Sistema Solar y Galaxia 3D</h1>
   <p><strong>Un laboratorio interactivo de simulación orbital y visualización masiva de datos estelares para PC.</strong></p>
 </div>
 
