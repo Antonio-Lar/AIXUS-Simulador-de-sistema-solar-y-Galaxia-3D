@@ -51,8 +51,9 @@ npm install
 Ejecuta el comando correspondiente a tu entorno de escritorio (por ejemplo, Tauri o Electron):
 
 bash
+```
 npm run tauri dev
-
+```
 
 
 *(O el comando equivalente según tu configuración, ej. `npm run dev` / `npm run electron:dev`)*
